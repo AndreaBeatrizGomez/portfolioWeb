@@ -1,0 +1,113 @@
+[
+    {
+        "nombre": "Andrea",
+        "apellido": "Gomez",
+        "puesto": "FullStack Developer Jr."
+    },
+    {
+        "titulo1": "Acerca de",
+        "descripcion1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus praesentium delectus hic eaque obcaecati cupiditate voluptatum molestiae omnis eius minima nisi amet nobis facilis laboriosam iste voluptatem, illo debitis sequi?"
+    },
+    {
+        "proyecto":[
+            {
+                "nombre": "Reloj Digital ",
+                "lenguaje": "HTML-CSS-JS"
+            },
+            {
+                "nombre": "Portfolio Web ",
+                "lenguaje": "HTML-CSS-JS"
+            },
+            {
+                "nombre": "Proyecto 1",
+                "lenguaje": "HTML-CSS-JS"
+            },
+            {
+                "nombre": "Proyecto 2",
+                "lenguaje": "HTML-CSS-JS"
+            },
+            {
+                "nombre": "Proyecto 3",
+                "lenguaje": "HTML-CSS-JS"
+            },
+            {
+                "nombre": "Proyecto 4",
+                "lenguaje": "HTML-CSS-JS"
+            },
+            {
+                "nombre": "Proyecto 5",
+                "lenguaje": "HTML-CSS-JS"
+            },
+            {
+                "nombre": "Proyecto 6",
+                "lenguaje": "HTML-CSS-JS"
+            }
+        ]
+    },
+    {
+        "experiencia":[
+            {
+                "trabajo": "Trabajo 1",
+                "puesto": "Experiencia laboral 1"
+            },
+            {
+                "trabajo": "Trabajo 2",
+                "puesto": "Experiencia laboral 2"
+            },
+            {
+                "trabajo": "Trabajo 3",
+                "puesto": "Experiencia laboral 3"
+            }
+
+        ]
+    },
+    {
+        "educacion":[
+            {
+                "instituto": "Universidad Nacional de La Matanza",
+                "carrera": "Ingeniería en Informática - En curso"
+            },
+            {
+                "instituto": "Nuestra Señora del Hogar",
+                "carrera": "Bachiller en Ciencias Naturales - 2001"
+            }
+
+        ]
+    },
+    {
+        "habilidades":[
+            {
+                "lenguaje": "HTML",
+                "porcentaje": "75%"
+            },
+            {
+                "lenguaje": "CSS",
+                "porcentaje": "75%"
+            },
+            {
+                "lenguaje": "JavaScript",
+                "porcentaje": "75%"
+            },
+            {
+                "lenguaje": "Bootstrap",
+                "porcentaje": "75%"
+            },
+            {
+                "lenguaje": "C++",
+                "porcentaje": "75%"
+            },
+            {
+                "lenguaje": "Ruby",
+                "porcentaje": "75%"
+            },
+            {
+                "lenguaje": "PHP",
+                "porcentaje": "75%"
+            },
+            {
+                "lenguaje": "ETC",
+                "porcentaje": "75%"
+            }
+        ]
+    }
+]

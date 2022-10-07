@@ -1,0 +1,219 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+ .fondo1 {
+    background-image: url(./assets/imagenes/fondo.jpeg);
+    background-position: 50%;
+    height: auto;
+ }
+ .fondo2 {
+   background-color: rgba(30, 30, 50,.5);
+   border: 2px solid #fff;
+   height: 100px;
+ }
+
+ header {
+   background: rgb(78, 143, 185);
+ }
+
+ .logo {
+  width: auto;
+  height: 50px;
+  margin: auto;
+  display: inline-block;
+  
+ }
+
+ .boton {
+  background: #1841e4;
+  color: #fff;
+  float: right;
+  height: 30px;
+  width: 80px;
+  margin: 10px;
+  border-radius: 5px;
+  
+ }
+
+ .boton2 {
+  background: #1841e4;
+  color: #fff;
+  float: right;
+  height: 30px;
+  width: 80px;
+  margin: 10px;
+  border-radius: 5px;
+  
+ }
+
+ .boton3 {
+  float: right;
+  margin-top: 10px;
+  margin-left: 5px;
+  
+ }
+
+ .imgBoton {
+  float: right;
+  border-radius: 10px;
+  
+ }
+
+ .main {
+    color: #fff;
+    text-align: center;
+    font-size: 16px;
+    height: 300px;
+    }
+
+   
+
+    .acercaDe {
+      text-align: center;
+      background: rgb(36, 180, 224);
+      color: #fff;
+      
+      }
+
+      .titulo {
+        margin-bottom: 20px;
+      }
+
+    .perfil {
+        width: 125px;
+        height: 125px;
+        margin: auto;
+        display: block;
+        border-radius: 50%;
+        float: left;
+        margin-top: -75px;
+        border: 5px solid rgba(236, 240, 241, 0.5)
+
+        
+    }
+
+  .proyectos {
+      
+      text-align: center;
+    }
+
+ .fotosProyectos {
+        width: 180px;
+        height: 180px;
+        margin: auto;
+        border-radius: 10%;
+ }
+
+ .experiencia {
+  background: #ccc;
+ }
+
+.exp {
+  text-align: center;
+  margin-bottom: 30px;
+  margin-top: 20px;
+}
+
+ .imagenExperiencia{
+  width: auto;
+  height: 75px;
+  margin-top: 2px;
+  margin-bottom: 5px;
+  margin-left: 20px;
+  margin-right: 20px;
+  border-radius: 10%;
+  float: left;
+
+}
+
+.imagenEducacion {
+  width: auto;
+  height: 100px;
+  margin: auto;
+  margin-left: 20px;
+  margin-right: 20px;
+  border-radius: 10%;
+  float: left;
+  margin-right: 20px;
+}
+
+.habilidades {
+  text-align: center;
+  background: #ccc;
+}
+
+.sangria {
+  margin: 10px;
+
+}
+
+.sangria2 {
+  margin-top: 10px;
+}
+
+.tituloHabilidades {
+  color: #fff;
+  text-align: center;
+  margin: 10px;
+  
+}
+
+.barra {
+  height: 200px;
+  width: 200px;
+  background-color: yellow;
+  margin: auto;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+.cont {
+  height: 100px;
+  width: 200px;
+  
+}
+
+.circuloCentro {
+  width: 150px;
+  height: 150px;
+  background-color: rgb(36, 180, 224);
+  border-radius: 50%;
+  margin: auto;
+  position: relative;
+  margin: -175px auto 50px;
+
+}
+
+.rectangulo {
+  width: 200px;
+  height: 100px;
+  background-color: rgb(36, 180, 224);
+  position: relative;
+  margin: -125px auto 50px;
+
+}
+
+.habilidades {
+  
+  background-color: rgb(36, 180, 224);
+}
+
+
+.login{
+  padding-top: 20px;
+  text-align: center;
+  
+}
+
+.alineacionDerecha {
+  text-align: right;
+}
+
+.alineacionIzquierda {
+  text-align: left;
+}
+
+.alineacionCentro {
+  text-align: center;
+}
